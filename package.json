@@ -1,0 +1,27 @@
+{
+  "name": "hpijs-intro",
+  "version": "0.0.1",
+  "description": "simple introduction app to hapijs with plugin",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nahwinrajan/hapijs-intro.git"
+  },
+  "keywords": [
+    "hapijs",
+    "intro"
+  ],
+  "author": "nrajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nahwinrajan/hapijs-intro/issues"
+  },
+  "homepage": "https://github.com/nahwinrajan/hapijs-intro#readme",
+  "dependencies": {
+    "hapi": "^16.0.1",
+    "joi": "^10.0.6"
+  }
+}
